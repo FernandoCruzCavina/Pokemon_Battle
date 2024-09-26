@@ -6,13 +6,14 @@
 This is an application that simulates a Pokemon Battle. But it has no effects on your attacks. You have Charmelion, Blastoise, Venusaur, Blissey and Gengar in your party. You try to play to see if you beat your opponent!
 
 ### Menu Screen
-![photoGame1](https://raw.githubusercontent.com/FernandoCruzCavina/assets/refs/heads/main/PokemonBattleScreen/Captura%20de%20tela%202024-09-26%20114816.png?token=GHSAT0AAAAAACYBPUQFGDKRYRWPQYGNSDLWZXVQTCA)
+![PhotoGame1](https://github.com/user-attachments/assets/9d1adfb5-f8cb-4135-8667-0b72bba9dc6b)
 
 ### Battle Screen
-![photoGame2](https://raw.githubusercontent.com/FernandoCruzCavina/assets/refs/heads/main/PokemonBattleScreen/Captura%20de%20tela%202024-09-26%20115308.png?token=GHSAT0AAAAAACYBPUQE5HVLWOFQI6VEXAWUZXVQSXA)
+![photoGame2](https://github.com/user-attachments/assets/849fc250-81fb-4566-8156-871d59c0a24b)
+
 
 ### End Screen
-![photoGame3](https://raw.githubusercontent.com/FernandoCruzCavina/assets/refs/heads/main/PokemonBattleScreen/Captura%20de%20tela%202024-09-26%20115338.png?token=GHSAT0AAAAAACYBPUQEKIFY3OATNERP74H6ZXVQSHA)
+![photoGame3](https://github.com/user-attachments/assets/4d8a8766-5c20-492d-84bd-9beb4784cf91)
 
 ## Technologies used
 
