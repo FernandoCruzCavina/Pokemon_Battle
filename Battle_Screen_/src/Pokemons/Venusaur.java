@@ -24,7 +24,7 @@ public class Venusaur extends Pokemon{
         setSprite(new ImageIcon(getClass().getResource("/images/pokemon/venusaur.png")));
         setIcon(new ImageIcon(getClass().getResource("/images/icon/iconVenusaur.png")));
         setAttributeIcon(new ImageIcon(getClass().getResource("/images/attribute/Grass_icon_SV.png")));
-        setAttributeIcon(new ImageIcon(getClass().getResource("/images/attribute/Poison_icon_SV.png")));
+        setAttributeIcon2(new ImageIcon(getClass().getResource("/images/attribute/Poison_icon_SV.png")));
         
         // Stats
         setHP(364);
